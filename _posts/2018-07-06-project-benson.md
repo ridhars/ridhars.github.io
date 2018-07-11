@@ -21,10 +21,10 @@ From the Income Data, we were able to retrieve the % size of our target profile;
 ### Results
 Based on our estimation, we could get the adjusted number of traffic for each stations, as shown below. The plot below represents the top busiest station specifically for our target audience.
 
-![Top 10 stations](https://github.com/ridhars/ridhars.github.io/blob/master/public/top-10.png)
+![Top 10 stations](https://raw.githubusercontent.com/ridhars/ridhars.github.io/master/public/top-10.png)
 
 To anticipate change of pattern between weekend and weekday, we've also plotted the top 3 stations for each day of week, as shown below.
 
-![Top 3 station by day](https://github.com/ridhars/ridhars.github.io/blob/master/public/top-3-by-day.png)
+![Top 3 station by day](https://raw.githubusercontent.com/ridhars/ridhars.github.io/master/public/top-3-by-day.png))
 
 Given the result we have, we'd recommend WomenTech WomenYes to target the three stations above throughout the week for maximum opportunity!
