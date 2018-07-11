@@ -2,7 +2,7 @@
 layout: post
 title: Identifying Optimum Station Placement - Metis Project 1
 ---
-<div style="text-align:justify">
+
 Beginning in Week 1, we are immediately tasked to help WomenTech WomenYes, an organization set out to promote women presence within the tech industries. They have teams ready to be placed on the streets surrounding New York's subway stations. The objective is to gain as much awareness and ultimately raise donation for their upcoming gala. However, the question remains, of all subway stations in New York, which one to attend?
 
 ### Approach
@@ -28,9 +28,3 @@ To anticipate change of pattern between weekend and weekday, we've also plotted 
 ![Top 3 station by day](~/Documents/MetisDS/MetisBlog/metis_blog/public/top-3-by-day.png
 
 Given the result we have, we'd recommend WomenTech WomenYes to target the three stations above throughout the week for maximum opportunity!
-
-### Conclusion
-
-### Recommendation
-
-</div>
