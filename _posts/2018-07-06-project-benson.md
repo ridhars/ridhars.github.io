@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identifying Optimum Station Placement - Metis Project 1
+title: Identifying Optimum Station Placement - NYC MTA
 ---
 
 Beginning in Week 1, we are immediately tasked to help WomenTech WomenYes, an organization set out to promote women presence within the tech industries. They have teams ready to be placed on the streets surrounding New York's subway stations. The objective is to gain as much awareness and ultimately raise donation for their upcoming gala. However, the question remains, of all subway stations in New York, which one to attend?
